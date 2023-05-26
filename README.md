@@ -1,2 +1,1 @@
-# typescript-lang
-typescript &lt;3
+# typescript
